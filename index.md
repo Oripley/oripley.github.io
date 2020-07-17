@@ -1,5 +1,6 @@
 <html>
-<body style="background-color:lightpink;">
+<body>
+<div style="background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTnmvGt9p78F0Zg3rUGXv0nuj7bt_LTe9yK3g&usqp=CAU');">
 <head>
 <h1 style="text-align:center;">ColourfulLottie</h1>
 </head>
