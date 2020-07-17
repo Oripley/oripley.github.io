@@ -1,9 +1,9 @@
 <html>
+<body style="background-color:powderblue;">
 <head>
 <h1>ColourfulLottie</h1>
 </head>
-<img src='https://imgur.com/KWNbulr'>
-<body>
+<img src="https://imgur.com/KWNbulr">
 <h2>Welcome to ColourfulLottie</h2>
 <p>Hi everyone! Welcome to my website</p><br>
 <p>My passion is to make life more colourful, I was looking around for tiedye clothes online and saw that no one was doing them exactly the way I wanted.</p><br>
