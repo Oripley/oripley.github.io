@@ -2,7 +2,7 @@
 <head>
 <h1>ColourfulLottie</h1>
 </head>
-<img src='https://imgur.com/KWNbulr'
+<img src='https://imgur.com/KWNbulr'>
 <body>
 <h2>Welcome to ColourfulLottie</h2>
 <p>Hi everyone! Welcome to my website</p><br>
