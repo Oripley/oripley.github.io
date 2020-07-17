@@ -1,9 +1,12 @@
 <html>
-<body style="background-color:powderblue;">
+<body style="background-color:lightpink;">
 <head>
 <h1>ColourfulLottie</h1>
 </head>
-<blockquote class="imgur-embed-pub" lang="en" data-id="KWNbulr"><a href="https://imgur.com/KWNbulr">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src="https://imgur.com/KWNbulr">
+<a href='https://postimg.cc/jC5d70M2' target='_blank'><img src='https://i.postimg.cc/jC5d70M2/Colourfullottie.png' border='0' alt='Colourfullottie'/></a>
+<a href='https://postimg.cc/jC5d70M2' target='_blank'><img src='https://i.postimg.cc/3rjyz3pX/Colourfullottie.png' border='0' alt='Colourfullottie'/></a>
+
 <h2>Welcome to ColourfulLottie</h2>
 <p>Hi everyone! Welcome to my website</p><br>
 <p>My passion is to make life more colourful, I was looking around for tiedye clothes online and saw that no one was doing them exactly the way I wanted.</p><br>
