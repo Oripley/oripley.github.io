@@ -1,6 +1,10 @@
 <html>
 <body>
-<div style="background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTnmvGt9p78F0Zg3rUGXv0nuj7bt_LTe9yK3g&usqp=CAU');">
+<style>
+body {
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTnmvGt9p78F0Zg3rUGXv0nuj7bt_LTe9yK3g&usqp=CAU');
+}
+</style>
 <head>
 <h1 style="text-align:center;">ColourfulLottie</h1>
 </head>
